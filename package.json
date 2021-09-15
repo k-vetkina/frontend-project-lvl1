@@ -1,0 +1,20 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "project to code",
+  "main": "brain-games.js",
+  
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-vetkina/frontend-project-lvl1.git"
+  },
+  "author": "Ksenia Vetkina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k-vetkina/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/k-vetkina/frontend-project-lvl1#readme"
+}
