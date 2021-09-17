@@ -1,12 +1,9 @@
 name: lint-check
-
-on:
-  - push
-
+on: push
 jobs:
   my-job:
     runs-on: ubuntu-latest
-    - name: Run linter
-        # Run Linter
+    steps:
+      - name: Run linter        
         run: |
-          make lint 
+          make lint
