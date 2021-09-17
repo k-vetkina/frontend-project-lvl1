@@ -6,6 +6,7 @@ on:
 jobs:
   my-job:
     runs-on: ubuntu-latest
-    steps:
-      - name: lint-step
-        run: make lint 
+    - name: Run linter
+        # Run Linter
+        run: |
+          make lint 
