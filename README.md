@@ -6,4 +6,4 @@
 <img src="https://github.com/k-vetkina/frontend-project-lvl1/workflows/lint-check/badge.svg"/>
 
 ### Example of work - brain-even:
-[![asciicast](https://asciinema.org/a/14.png)](https://asciinema.org/a/KQSbBgd0p4Y87Iq3lG902UGd9)
+[![asciicast](https://asciinema.org/a/qnG6NkPghH0KB8zKaA9mWi9JJ.svg)](https://asciinema.org/a/qnG6NkPghH0KB8zKaA9mWi9JJ)
